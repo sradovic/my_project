@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+
+
 number="120";
 delay="1";
 DATE=`date "+%m%d%Y_%H%M"`
